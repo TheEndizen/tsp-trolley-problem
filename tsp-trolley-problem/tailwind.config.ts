@@ -12,6 +12,16 @@ export default {
         background: "var(--background)",
         foreground: "var(--foreground)",
       },
+      fontFamily: {
+        comicNeue: [
+          'Comic Neue',
+          'sans-serif'
+        ],
+        patrickHand: [
+          'Patrick Hand',
+          'sans-serif'
+        ]
+      }
     },
   },
   plugins: [],
