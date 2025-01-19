@@ -4,10 +4,10 @@ export default function Home() {
   return (
     <div className="w-full h-screen">
       <div className="w-full flex items-center flex-col">
-        <h1 className="text-black mt-4 font-bold text-4xl hover:-translate-y-1 transition-all">
+        <h1 className="text-black mt-4 font-bold text-4xl hover:-translate-y-2 transition-all">
           The Travelling Salesman Trolley Problem
         </h1>
-        <p className="text-gray-600 text-lg">
+        <p className="text-gray-600 text-lg hover:translate-y-3 transition">
           By Colin and Mabel
         </p>
       </div>
